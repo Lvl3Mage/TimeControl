@@ -1,0 +1,22 @@
+{
+  "name": "com.lvl3mage.time-control",
+  "version": "1.0.1",
+  "displayName": "Time Control",
+  "description": "",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.lvl3mage.coroutine-utils": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lvl3Mage/TimeControl.git"
+  },
+  "keywords": [
+  ],
+  "author": "lvl3mage",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lvl3Mage/TimeControl/issues"
+  },
+  "homepage": "https://github.com/Lvl3Mage/TimeControl#readme"
+}

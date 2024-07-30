@@ -2,7 +2,7 @@
   "name": "com.lvl3mage.time-control",
   "version": "1.0.1",
   "displayName": "Time Control",
-  "description": "",
+  "description": "A simple package that simplifies the management of timescale in Unity.",
   "unity": "2021.3",
   "dependencies": {
     "com.lvl3mage.coroutine-utils": "1.0.0"

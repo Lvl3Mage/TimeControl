@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Time Control", "index.html", [
     [ "Time Control", "index.html#autotoc_md1", [
-      [ "Features", "index.html#autotoc_md2", null ],
-      [ "Requirements", "index.html#autotoc_md3", null ],
-      [ "Installation", "index.html#autotoc_md4", null ],
-      [ "Usage", "index.html#autotoc_md5", null ]
+      [ "Requirements", "index.html#autotoc_md2", null ],
+      [ "Installation", "index.html#autotoc_md3", null ],
+      [ "Documentation", "index.html#autotoc_md4", null ],
+      [ "Author", "index.html#autotoc_md5", null ]
     ] ],
     [ "[1.0.0] -", "a00060.html", null ],
     [ "LICENSE", "a00061.html", null ],

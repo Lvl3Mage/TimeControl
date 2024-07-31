@@ -13,7 +13,7 @@ Include a scoped registry with
 Add the package to your Unity project by importing the `com.lvl3Mage.time-control` package.
 
 ## Documentation
-The documentation for the CameraManagement package can be found [here](https://lvl3mage.github.io/TimeControl/).
+The documentation for the Time Control package can be found [here](https://lvl3mage.github.io/TimeControl/).
 
 ## Author
 Lvl3Mage - [GitHub](https://github.com/Lvl3Mage)
